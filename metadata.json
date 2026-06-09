@@ -7,10 +7,9 @@
   "words": 149863,
   "pulpDate": null,
   "repo": "https://github.com/JohnQPulp/TheJungle",
-  "links": {
-    "Goodreads": "https://www.goodreads.com/book/show/41681.The_Jungle",
-    "Wikipedia": "https://en.wikipedia.org/wiki/The_Jungle"
-  },
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Jungle",
   "blurb": "foo",
-  "blurb2": "bar"
+  "blurb2": "bar",
+  "useAvif": true,
+  "authorWidth": null
 }
